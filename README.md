@@ -1,2 +1,2 @@
-# deploy_ML_project_with_fastapi
+# Deploy a Deep learning project with fastapi
 How to deploy a machine learning project with fastapi
