@@ -46,15 +46,12 @@ You can test the model with the image below using postman
 <img src="images/sample_mnist_image.png?raw=true" alt="Sample MNIST Image" width="100" height="100" />
 Sample MNIST Image
 
-![Using Postman: upload image](images/postman_example_pre.png?raw=true "Using Postman: upload image")
+<img src="images/postman_example_pre.png?raw=true" alt="Using Postman: upload image" width="300" height="300" />
 Using Postman: upload image
 
-![Using Postman: send a Post Request](images/postman_example.png?raw=true "Using Postman: send a Post Request")
+<img src="images/postman_example.png?raw=true" alt="Using Postman: send a Post Request" width="300" height="300" />
 Using Postman: send a Post Request
 
-```
-    curl -X POST "http://localhost:8008/predict" -H "accept: application/json" -H "Content-Type: application/json" -d "{\"file\":\"C:/Users/christian/Pictures/sample_mnist_image.png\"}"
-```
 
 # Refrences
 1. MNIST CNN Model [repo](https://github.com/Semicolon-Tech/cnn_intro_with_mnist)
