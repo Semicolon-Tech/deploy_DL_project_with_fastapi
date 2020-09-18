@@ -45,9 +45,13 @@ You can test the model with the Sample MNIST Image from [How to Develop a CNN fo
 
 <img src="images/sample_mnist_image.png?raw=true" alt="Sample MNIST Image" width="100" height="100" />
 
-{% include image.html url="images/postman_example_pre.PNG?raw=true" description="Using Postman: upload image" %}
+| ![Using Postman: upload image](images/postman_example_pre.PNG?raw=true) | 
+|:--:| 
+| *Using Postman: upload image* |
 
-{% include image.html url="images/postman_example.PNG?raw=true" description="Using Postman: send a Post Request" %}
+| ![Using Postman: send a Post Request](images/postman_example.PNG?raw=true) | 
+|:--:| 
+| *Using Postman: send a Post Request* |
 
 # Refrences
 1. MNIST CNN Model [repo](https://github.com/Semicolon-Tech/cnn_intro_with_mnist)
