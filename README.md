@@ -43,7 +43,7 @@ When the service is running, try this link in your browser
 
 You can test the model with the image below using postman 
 
-![Sample MNIST Image](images/sample_mnist_image.png?raw=true "Sample MNIST Image"){height="100px" width="100px"}
+<img src="images/sample_mnist_image.png?raw=true" alt="Sample MNIST Image" width="100" height="100" />
 Sample MNIST Image
 
 ![Using Postman: upload image](images/postman_example_pre.png?raw=true "Using Postman: upload image")
