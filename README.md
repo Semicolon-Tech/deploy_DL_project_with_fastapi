@@ -46,10 +46,10 @@ You can test the model with the image below using postman
 <img src="images/sample_mnist_image.png?raw=true" alt="Sample MNIST Image" width="100" height="100" />
 Sample MNIST Image
 
-<img src="images/postman_example_pre.PNG?raw=true" alt="Using Postman: upload image" width="300" height="300" />
+<img src="images/postman_example_pre.PNG?raw=true" alt="Using Postman: upload image" />
 Using Postman: upload image
 
-<img src="images/postman_example.PNG?raw=true" alt="Using Postman: send a Post Request" width="300" height="300" />
+<img src="images/postman_example.PNG?raw=true" alt="Using Postman: send a Post Request"  />
 Using Postman: send a Post Request
 
 
