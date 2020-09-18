@@ -43,13 +43,13 @@ When the service is running, try this link in your browser
 
 You can test the model with the image below using postman 
 
-![Sample MNIST Image](images/sample_mnist_image.png?raw=true "Sample MNIST Image")
+![Sample MNIST Image](images/sample_mnist_image.png?raw=true "Sample MNIST Image"){:height="100px" width="100px"}.
 Sample MNIST Image
 
-![Using Postman: upload image](https://github.com/Semicolon-Tech/deploy_DL_project_with_fastapi/blob/master/postman_example_pre.png?raw=true "Using Postman: upload image")
+![Using Postman: upload image](images/postman_example_pre.png?raw=true "Using Postman: upload image")
 Using Postman: upload image
 
-![Using Postman: send a Post Request](https://github.com/Semicolon-Tech/deploy_DL_project_with_fastapi/blob/master/postman_example.png?raw=true "Using Postman: send a Post Request")
+![Using Postman: send a Post Request](images/postman_example.png?raw=true "Using Postman: send a Post Request")
 Using Postman: send a Post Request
 
 ```
