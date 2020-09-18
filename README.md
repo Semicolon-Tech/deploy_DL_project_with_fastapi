@@ -58,4 +58,4 @@ You can test the model with the Sample MNIST Image from [How to Develop a CNN fo
 # Refrences
 1. MNIST CNN Model [repo](https://github.com/Semicolon-Tech/cnn_intro_with_mnist)
 2. Tutorial: How to deploy your ConvNet classifier with Keras and FastAPI [article](https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/#full-model-code)
-3. 
+3. [How to Develop a CNN for MNIST Handwritten Digit Classification](https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/)
