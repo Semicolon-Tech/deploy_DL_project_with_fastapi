@@ -32,7 +32,7 @@ You can find out the path to your `python3` interpreter with the command `which 
 
 3. Launch the service
 ```
-    uvicorn main:app --reload --workers 1 --host 0.0.0.0 --port 8008
+    uvicorn main:app --workers 1 --host 0.0.0.0 --port 8008
 ```
 
 ## Posting requests locally
