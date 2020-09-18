@@ -41,16 +41,13 @@ When the service is running, try this link in your browser
     127.0.0.1:8008/docs
 ```
 
-You can test the model with the image below using postman 
+You can test the model with the Sample MNIST Image from [How to Develop a CNN for MNIST Handwritten Digit Classification](https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/) below using postman 
 
 <img src="images/sample_mnist_image.png?raw=true" alt="Sample MNIST Image" width="100" height="100" />
-<p align="center">Sample MNIST Image. Image from [How to Develop a CNN for MNIST Handwritten Digit Classification](https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/)</p>
 
-<img src="images/postman_example_pre.PNG?raw=true" alt="Using Postman: upload image" />
-<p align="center">Using Postman: upload image</p>
+{% include image.html url="images/postman_example_pre.PNG?raw=true" description="Using Postman: upload image" %}
 
-<img src="images/postman_example.PNG?raw=true" alt="Using Postman: send a Post Request" />
-<p align="center">Using Postman: send a Post Request</p>
+{% include image.html url="images/postman_example.PNG?raw=true" description="Using Postman: send a Post Request" %}
 
 # Refrences
 1. MNIST CNN Model [repo](https://github.com/Semicolon-Tech/cnn_intro_with_mnist)
